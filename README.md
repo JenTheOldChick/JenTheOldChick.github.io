@@ -1,2 +1,3 @@
 # JenTheOldChick.github.io
-Into to IT Assignment
+Intro to IT Assignment 1
+My Profile
